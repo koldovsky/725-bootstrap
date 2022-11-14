@@ -1,5 +1,6 @@
-@import url(common.css);
-@import url(controls.css);
-@import url(header.css);
-@import url(products.css);
-@import url(footer.css);
+.navbar.bg-light,
+.bg-light {
+    background-color: beige!important;
+}
+
+
